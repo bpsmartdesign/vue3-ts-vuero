@@ -23,6 +23,6 @@ If you find any bugs or if you have any suggestion, please open an issue.
 
 ## Suport
 
-<a href="https://www.buymeacoffee.com/bpsmartdesign" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+<a href="https://www.buymeacoffee.com/bpsmartdesign">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Sandwitch 😉&emoji=🥪&slug=bpsmartdesign&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
